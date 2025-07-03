@@ -1,0 +1,14 @@
+emotion-prediction-gru/
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+│
+├── data/
+│   └── (placeholder)
+│
+├── notebooks/
+│   └── Emotion_Prediction_GRU.ipynb
+│
+└── src/
+    └── train.py
